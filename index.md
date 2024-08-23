@@ -1,3 +1,11 @@
+# Devashish Das' First CS193 Homework
+
+## My favorite things about CS 193:
+
+- It's taught by very cool instructors
+- It's beginner friendly
+- It will give you experience with tools that are used alot in jobs and classes
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
